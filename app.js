@@ -65,11 +65,3 @@
 //Q #04
 // var favoriteColor = "blue"
 // alert("My favorite color is "  +  favoriteColor)
-
-//Q #04
-// var favoriteColor = "blue"
-// alert("My favorite color is "  +  favoriteColor)
-
-//Q #04
-// var favoriteColor = "blue"
-// alert("My favorite color is "  +  favoriteColor)
